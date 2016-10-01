@@ -1,5 +1,5 @@
 
-public class _3LogicalOperator {
+public class _03LogicalOperator {
 
 	public static void main(String[] args) {
 		int boy = 23;

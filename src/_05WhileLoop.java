@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _5WhileLoop {
+public class _05WhileLoop {
 
 	public static void main(String[] args) {
 

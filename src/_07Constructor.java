@@ -1,6 +1,6 @@
 import Class.Dating;
 
-public class _7Constructor {
+public class _07Constructor {
 
 	public static void main(String[] args) {
 

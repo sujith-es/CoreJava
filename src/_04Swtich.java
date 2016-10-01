@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _4Swtich {
+public class _04Swtich {
 
 	public static void main(String[] args) {
 		System.out.println("hi! enter your rank to display message.");

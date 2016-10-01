@@ -1,6 +1,6 @@
 import Class.Dating;
 
-public class _6InstanceVariable {
+public class _06InstanceVariable {
 
 	public static void main(String[] args) {
 
