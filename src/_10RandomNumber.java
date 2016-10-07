@@ -7,15 +7,8 @@ public class _10RandomNumber {
 		
 		int number=0;
 		
-		SecureRandom secRdm = new SecureRandom();
-		System.out.println(secRdm.generateSeed(10));
-		
 		Random rdm = new Random();
 		number = rdm.nextInt(3);
 		System.out.println(number);
-	
-		
-
-	}
-
+		}
 }
